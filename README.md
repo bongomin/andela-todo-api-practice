@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/bongomin/ToDos.svg?token=j8VW9EdbB2mJgxj969yq&branch=master)](https://travis-ci.com/bongomin/ToDos)
+[![Build Status](https://travis-ci.com/bongomin/ToDos.svg?token=PtPAqn4oT3tB9pzFjhH4&branch=develop)](https://travis-ci.com/bongomin/ToDos)
 
 ## Installation Instructions for the app:
 1. Install Flask using `pip install flask`
