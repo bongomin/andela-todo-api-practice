@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/bongomin/ToDos.svg?token=j8VW9EdbB2mJgxj969yq&branch=master)](https://travis-ci.com/bongomin/ToDos)
+
 ## Installation Instructions for the app:
 1. Install Flask using `pip install flask`
 2. Clone the app using `git clone https://github.com/JSnakegitHub/Challenge-3.git`
