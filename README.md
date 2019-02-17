@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/bongomin/ToDos.svg?token=PtPAqn4oT3tB9pzFjhH4&branch=develop)](https://travis-ci.com/bongomin/ToDos)
-[![Coverage Status](https://coveralls.io/repos/github/bongomin/ToDos/badge.svg?branch=master)](https://coveralls.io/github/bongomin/ToDos?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/github/bongomin/ToDos/badge.svg?branch=master)](https://coveralls.io/github/bongomin/ToDos?branch=master)
 
 ## Installation Instructions for the app:
 1. Install Flask using `pip install flask`
