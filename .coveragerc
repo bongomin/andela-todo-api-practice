@@ -1,0 +1,7 @@
+[run]
+omit=
+   */venv/*
+   */tests/*
+   */.pytest_cache/*
+   *.pyc
+   *__init__.py
